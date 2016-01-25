@@ -1,0 +1,7 @@
+"*":
+  "exception-reporting":
+    userId: "95a8822c-2014-6468-9d83-9be9df73a04e"
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+  welcome:
+    showOnStartup: false
